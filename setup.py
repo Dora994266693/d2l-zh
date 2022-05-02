@@ -8,7 +8,7 @@ requirements = [
     'requests==2.25.1',
     'pandas==1.2.4'
 ]
-
+# 武娟测试提交
 setup(
     name='d2l',
     version=d2l.__version__,
